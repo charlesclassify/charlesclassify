@@ -4,6 +4,8 @@
 
 Technologies I use <br>
 ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 Contact me through <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesspencer.alegre@gmail.com) [![Viber Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](tel:09554320924)
