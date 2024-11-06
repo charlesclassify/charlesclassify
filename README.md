@@ -20,7 +20,7 @@ Technologies I use <br>
 
 Contact me through <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesspencer.alegre@gmail.com) <br>
-[![Viber Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B639554320924) : +6309554320924
+[![Viber Badge](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=%2B639554320924)
 
 ### 📊 GitHub Stats
 ![charlesclassify's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesclassify&show_icons=true&theme=radical)
