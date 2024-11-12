@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Charles Spencer Alegre
-- 👀 I’m interested in Dota 2
-- 🌱 I’m currently learning how to control spacetime <br>
+👋 Hi, I’m Charles Spencer Alegre
+👀 I’m interested in Dota 2
+🌱 I’m currently learning how to control spacetime <br>
 
 Technologies I use <br>
 ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
