@@ -1,5 +1,5 @@
-👋 Hi, I’m Charles Spencer Alegre
-👀 I’m interested in Dota 2
+👋 Hi, I’m Charles Spencer Alegre <br>
+👀 I’m interested in Dota 2 <br>
 🌱 I’m currently learning how to control spacetime <br>
 
 Technologies I use <br>
