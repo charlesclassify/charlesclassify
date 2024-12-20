@@ -1,6 +1,6 @@
 👋 Hi, I’m Charles Spencer Alegre <br>
 👀 I'm a Junior Software Developer for Classify Inc. <br>
-😮 I also work on various personal projects <br>
+😮 I also work on various personal projects. <br>
 🌱 I’m currently learning how to control spacetime <br>
 
 Technologies I use <br>
