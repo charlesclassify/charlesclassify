@@ -2,7 +2,6 @@
 👀 I'm a Junior Software Developer for Classify Inc. <br>
 😮 I also work on various personal projects. <br>
 🌱 I’m currently learning how to control spacetime <br>
-tateaqetaetataet
 
 Technologies I use <br>
 ![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
