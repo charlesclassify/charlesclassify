@@ -1,4 +1,5 @@
-👋 Hi, I’m Charles Spencer Alegre <br>
+<h1 style="text-align:center;">Hi, I’m Charles Spencer Alegre </h1>
+<hr>
 👀 I'm a Junior Software Developer for Classify Inc. <br>
 😮 I also work on various personal projects. <br>
 🌱 I’m currently learning how to control spacetime <br>
