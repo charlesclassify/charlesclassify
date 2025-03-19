@@ -30,5 +30,5 @@ Contact me through <br>
 
 
 Projects:
-<a href="brgycfms.com"><strong>Barangay Case Filing Management System</strong></a>
+<a href="https://brgycfms.com" target="_blank"><strong>Barangay Case Filing Management System</strong></a>
 
